@@ -13,6 +13,6 @@ Compare between working directory and git repo
 
 To integrate changes of branch into another branch
 
-## GIT rebase
+## GIT stash
 
 To merge 2 branches; remote addition
