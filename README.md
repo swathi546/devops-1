@@ -15,4 +15,4 @@ To integrate changes of branch into another branch
 
 ## GIT rebase
 
-To merge 2 branches
+To merge 2 branches; remote addition
