@@ -6,4 +6,4 @@ Git is version control system. we need it
 rebase topic to discuss
 started
 
-we will do changes in master
+we will do changes in master. we these changes for rebase
