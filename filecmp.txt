@@ -4,3 +4,5 @@ we will now see the actual content differences
 starting learn on rebase
 
 We will add new changes to master branch
+
+Final one
