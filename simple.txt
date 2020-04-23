@@ -1,4 +1,4 @@
-hello world .. welcome to git training
+hello world .. welcome to git training. Please hold
 
 so please use
 Git is version control system. we need it
@@ -7,3 +7,4 @@ rebase topic to discuss
 started
 
 we will do changes in master. we these changes for rebase
+We are again making chnages in master
