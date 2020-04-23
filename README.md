@@ -12,3 +12,7 @@ Compare between working directory and git repo
 ## GIT Merge 
 
 To integrate changes of branch into another branch
+
+## GIT rebase
+
+To merge 2 branches
